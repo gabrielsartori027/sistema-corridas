@@ -1,17 +1,4 @@
 # Sistema de Corridas
-
-API REST de um sistema de corridas feito com Node.js, Express, Sequelize e PostgreSQL.
-
-## Como rodar
-
-1. Ter o PostgreSQL rodando com o banco `banco1` criado
-2. Instalar dependencias: `npm install`
-3. Rodar: `node index.js`
-
-O servidor roda na porta 3000.
-
-## Rotas
-
 ### Categorias
 
 - POST /categorias - criar categoria
